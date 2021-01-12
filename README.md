@@ -4,7 +4,7 @@ Date:9/1/2021
 https://generate-password-pink.vercel.app/
 
 # Screen Shot
-
+![ScreenShot](https://github.com/AngularProjects2021/generate-password/blob/main/Screenshot%20of%20Password%20Generator.jpg)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.3.
 
